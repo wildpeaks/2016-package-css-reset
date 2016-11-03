@@ -1,0 +1,20 @@
+{
+  "name": "@wildpeaks/css-reset",
+  "version": "0.0.1",
+  "description": "Basic CSS Reset",
+  "main": "src/reset.css",
+  "files": [
+  	"src/reset.css"
+  ],
+  "repository": "https://github.com/wildpeaks/package-css-reset",
+  "keywords": [
+    "wildpeaks",
+    "css"
+  ],
+  "author": "Cecile Muller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildpeaks/package-css-reset/issues"
+  },
+  "homepage": "https://github.com/wildpeaks/package-css-reset#readme"
+}
